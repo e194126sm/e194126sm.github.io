@@ -1,0 +1,48 @@
+.bluecolor {
+    text-align: center;
+    background-color: black;
+    color: yellow;
+    font-size: 50px;
+    font-family: impact;
+}
+
+.yellowcolor {
+    color:yellow;
+    font-size: 30px;
+    font-family: impact;
+}
+
+.whitecolor {
+    color: violet;
+    font-size: 30px;
+    font-family: impact;
+}
+
+.redcolor {
+    color: red;
+    font-size: 30px;
+    font-family: impact;
+}
+
+h1#kudo{
+    font-family: impact;
+}
+
+h2#no1{
+    text-align: center;
+    color: red;
+    background-color: darkorange;
+    font-size: 40px;
+}
+
+h2#no2{
+    text-align: center;
+    color: azure;
+    background-color: black;
+    font-size: 40px;
+}
+
+body{
+    background-image: url("../images/pG28DwOyLMUStRv1578625093_1578625115.jpg");
+    background-repeat: repeat;
+}
