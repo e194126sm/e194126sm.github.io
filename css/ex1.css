@@ -1,0 +1,34 @@
+h1{
+    color: crimson;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: azure;
+}
+
+h2{
+    color: coral;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+h3{
+    color: blue;
+    text-align: left;
+}
+
+h4{
+    
+}
+
+table{
+    background-color: deepskyblue;
+}
+
+body{
+    background-image: url("../images/4f4fb8dd0a79cb2103d1776f0ab842da-1024x720.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: top left;
+}
